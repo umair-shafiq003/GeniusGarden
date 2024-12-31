@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717925573708",
+    "project_id": "gardengenius-2517f",
+    "storage_bucket": "gardengenius-2517f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717925573708:android:4e066e166d0ec3683f00e9",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6XkrDdOyeQ_Cfusc1rdl1hpad7WptD_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

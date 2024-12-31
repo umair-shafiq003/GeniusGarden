@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <!-- User Message -->
+    <TextView
+        android:id="@+id/userMessageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:padding="8dp"
+        android:background="#5D3131"
+        android:textColor="@color/white"
+        android:visibility="gone"
+        android:layout_marginBottom="4dp" />
+
+    <!-- Bot Message -->
+    <TextView
+        android:id="@+id/botMessageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:padding="8dp"
+        android:background="#5D3131"
+        android:textColor="@color/white"
+        android:visibility="gone"
+        android:layout_marginBottom="4dp" />
+</LinearLayout>
